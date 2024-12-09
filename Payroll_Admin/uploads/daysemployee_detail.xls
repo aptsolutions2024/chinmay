@@ -1,0 +1,55 @@
+ Client_id 	Client_name	Sal_month	 Emp_id	Employee_NAME	present	weeklyoff	  absent	 pl	cl	sl 	 paidholiday	additional	 othours	 nightshifts	incometax	canteen	extra_inc1	 extra_inc2	leave_encash	extra_ded1	extra_ded2	 wagediff	Allow_arrears	 Ot_arrears	invalid	Client_id 	Client_name	Sal_month	 Emp_id	Employee_NAME	Present	Weeklyoff	  Absent	 Pl	Cl	Sl 	 Paidholiday	Additional	 Othours	 Nightshifts	Incometax	Canteen	Extra_inc1	 Extra_inc2	Leave_encash	Extra_ded1	Extra_ded2	 Wagediff	Allow_arrears	 Ot_arrears	Invalid
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	82	VINOD LAHU RAJIWADE	3																					86	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	376	PRAJWAL - MORE	8	2																					XLPE																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	331	ROHIT  KAMBLE	14	4	9	3																		335	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	330	SANDEEP  YADAV	21	5	4																			334	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	211	SIDHARTH BALU SHELAR	21	5	4																			215	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	325	AJIKYA  DHOBALE	22	5	3																			329	HJW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	377	PRAJWAL - POL	22	5	3																				XLPE																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	380	TATHAGAT - GAIKWAD	20	5	5					2															XLPE																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	81	VISHAL KONDIBA DHAVALE	22	5	3																			85	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	240	AKSHAY  PAWAR	23	5	2																			244	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	316	RAHIL  SAYYAD	23	5	2																			320	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	116	SHADAB RASUL SHAIKH	23	5	2																			120	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	19	VISHAL SUNIL VITKAR	23	5	2																			23	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	96	AMOL SHIVAJI JONDHALKAR	24	5	1																			100	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	128	ABHISHEK MAHENDRA ADSUL	25	5																				132	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	123	AKASH PRALHAD SASANE	25	5																				127	HJW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	165	AKSHAY  PAWAL	25	5																				169	HJW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	159	AMOL  SAWANTFULE	25	5																				163	HJW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	105	ASHISH VASANT KOKAMKAR	25	5																				109	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	20	ATISH SHIVAJI KUCHEKAR	25	5																				24	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	219	ATUL  MORE	23	5		2																		223	MCW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	77	BALAJI NAMDEV MORE	19	5	1	5				1														81	MCW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	139	BALAJI RUKMAJI WAGHMARE	25	5																				143	HJW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	275	KISHOR  KOLI	23	5		2																		279	MCW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	220	MAHESH  WAGHMARE	25	5																				224	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	350	MAYUR  BAMBLE	25	5																				354	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	17	MUNIR RAHIMUDDIN KHAN	24	5		1																		21	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	338	NAGESH  KAMBLE	22	5		3																		342	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	375	NAVNATH - SURYAVANSHI	22	5		3																			XLPE																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	339	OMKAR  KAMBLE	25	5																				343	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	326	PRASHANT  PAIKRAO	25	5																				330	MCW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	324	PRAVIN  NIMBHORE	25	5																				328	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	138	RAHUL RAVINDRA KHARADE	25	5																				142	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	45	RAVINDRA GOVIND BIRADAR	25	5																				49	MCW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	151	RUSHIKESH  THORAT	23	5		2																		155	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	378	SAGAR - KUMBHAR	24	5		1																			XLPE																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	148	SAGAR UMESH KADAM	25	5																				152	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	336	SAHIL  MANE	21	5		4																		340	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	329	SAJAN  JADHAV	25	5																				333	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	69	SAMIR RAJU SYED	19	4		7																		73	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	113	SANGHRASH DINESH SALVE	22	5		3																		117	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	379	SANNI - JADHAV	25	5																					XLPE																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	15	SANTOSH HARISHCHANDRA BACCHIRE	23	5		2																		19	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	140	SHESHERAO GUNAJI WAGHMARE	25	5																				144	HJW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	90	SIDDHANT ANIL BHALERAO	25	5																				94	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	332	SOHEL  SHAIKH	24	5		1																		336	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	16	SUNIL HARISHCHANDRA KUSALKAR	25	5																				20	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	232	TUSHAR  RASAL	25	5																				236	HJW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	10	TUSHAR ARVIND SHETE	17	4		9																		14	HJW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	66	VINOD VILAS BHOSALE	25	5																				70	PWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	335	VISHAL  LONDHE	25	5																				339	SWH																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	70	VISHANT BIMBISAR TRIBHUVAN	25	5																				74	MCW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	327	VISHWAJIT  NANGARE	22	5		3																		331	MCW																								
+26	"BLUE DART EXPRESS LTD.,PUNE"	31-07-2022	279	ADITYA  GAIKWAD	20	5		5																		283	PWH																								

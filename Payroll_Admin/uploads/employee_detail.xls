@@ -1,0 +1,17 @@
+ Client_id 	Client_name	Sal_month	 Emp_id	Employee_NAME	present	weeklyoff	  absent	 pl	cl	sl 	 paidholiday	additional	 othours	 nightshifts	incometax	canteen	extra_inc1	 extra_inc2	leave_encash	extra_ded1	extra_ded2	 wagediff	Allow_arrears	 Ot_arrears	invalid	Client_id 	Client_name	Sal_month	 Emp_id	Employee_NAME	Present	Weeklyoff	  Absent	 Pl	Cl	Sl 	 Paidholiday	Additional	 Othours	 Nightshifts	Incometax	Canteen	Extra_inc1	 Extra_inc2	Leave_encash	Extra_ded1	Extra_ded2	 Wagediff	Allow_arrears	 Ot_arrears	Invalid
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	2226	SANTOSH KAMLAKAR BHISE	23	4	3																			1880	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	2448	HITESH LALASO KHARADE	26	4																				2102	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	2476	GANESH CHANDRAKANT TILEKAR	26	4																				2130	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	2708	SAMIT LALASO PHADATARE	11	4	15																			2362	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	2833	NAVNATH BAJRANG KURELEKAR	26	4																				2487	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	2836	AMOL RAJENDRA KADAM	26	4																				2490	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	3002	DEEPAK SUBHASH KARPE	26	4																				2656	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	3416	SAGAR SANJAY KANASE	26	4																				3070	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	3505	NITESH DIPAK AWAGHADE	26	4																				3159	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	3836	GANESH TANAJI GORE	26	4																				3490	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	3969	SURAJ  PAWAR	26	4																				3623	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	4164	SANJAY MOHAN PAWAR	26	4																				3818	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	4165	ABHIJIT JAGANNATH PISAL	26	4																				3819	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	4166	DIPAK SURESH SAPKAL	26	4																				3820	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	4180	VIKRAM ANIL KAMBLE	26	4																				3834	SATARA																								
+21	"BLUE DART EXPRESS LTD., SATARA"	7/31/2022	4181	VISHAL  JAMADAR	26	4																				3835	SATARA																								

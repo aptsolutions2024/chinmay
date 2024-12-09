@@ -1,0 +1,6 @@
+Client_id,Client_name,Sal_month,Emp ID,Employee_Name,Present,Weeklyoff,Absent,Pl,Cl,Sl,Paidholiday,Additional,Othours,Nightshifts,Incometax,Canteen,Extra_inc1,Extra_inc2,Leave_encash,Extra_ded1,Extra_ded2,Wagediff,Allow_arrears,Ot_arrears,Invalid,Ticket_no,CC_Code
+2,"Chinmay Hospitality Services,Shirval",31-05-2023,1,POOJA A,23,9,1,1,5,9,8,12,16,0,0,0,0,0,0,0,0,0,0,0,Days Total(R)-,678904,NOT APPLICABLEE
+2,"Chinmay Hospitality Services,Shirval",31-05-2023,82,ASHARANI MADANE33,25,10,2,2,4,2,9,13,17,999.99,2,4000,1000,1000,200,0,0,2000,200,300,Days Total(R)-,,Canteen
+2,"Chinmay Hospitality Services,Shirval",31-05-2023,155,ABC HIJ,25,11,3,8,6,3,10,14,18,0,0,0,0,0,0,0,0,0,0,0,Days Total(R)-,,TESTING DEPT
+2,"Chinmay Hospitality Services,Shirval",31-05-2023,156,sss ccc,84,12,4,2,7,3,11,15,19,0,0,0,0,0,0,0,0,0,0,0,Days Total(R)-,,NOT APPLICABLEE
+2,"Chinmay Hospitality Services,Shirval",31-05-2023,157,sss ccc,0,13,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Days Total(N)-,,NOT APPLICABLEE

@@ -1,0 +1,2 @@
+Payroll_Admin/reports/error_log filter=lfs diff=lfs merge=lfs -text
+Payroll_Admin/error_log filter=lfs diff=lfs merge=lfs -text

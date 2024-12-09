@@ -1,0 +1,1 @@
+<?phpsession_start();$_SESSION['clientid']=$_REQUEST['clientid'];?>

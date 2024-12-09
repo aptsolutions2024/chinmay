@@ -1,0 +1,22 @@
+[16-Sep-2024 12:37:58 UTC] PHP Warning:  include(../lib/connection/db-config.php): failed to open stream: No such file or directory in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-income.php on line 9
+[16-Sep-2024 12:37:58 UTC] PHP Warning:  include(): Failed opening '../lib/connection/db-config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-income.php on line 9
+[16-Sep-2024 12:37:58 UTC] PHP Warning:  include(../lib/class/user-class.php): failed to open stream: No such file or directory in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-income.php on line 10
+[16-Sep-2024 12:37:58 UTC] PHP Warning:  include(): Failed opening '../lib/class/user-class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-income.php on line 10
+[16-Sep-2024 12:37:58 UTC] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-income.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-income.php on line 11
+[19-Sep-2024 15:59:53 Asia/Kolkata] PHP Notice:  Undefined index: comp_id in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/header.php on line 21
+[19-Sep-2024 15:59:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type bool in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/header.php on line 25
+[19-Sep-2024 15:59:53 Asia/Kolkata] PHP Notice:  Undefined index: log_type in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/header.php on line 74
+[19-Sep-2024 15:59:53 Asia/Kolkata] PHP Notice:  Undefined index: log_type in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/header.php on line 76
+[19-Sep-2024 15:59:53 Asia/Kolkata] PHP Notice:  Undefined index: log_type in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/header.php on line 78
+[19-Sep-2024 15:59:53 Asia/Kolkata] PHP Notice:  Undefined index: log_type in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/header.php on line 80
+[20-Sep-2024 06:46:25 UTC] PHP Warning:  include(../lib/connection/db-config.php): failed to open stream: No such file or directory in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-trandays-transactions.php on line 8
+[20-Sep-2024 06:46:25 UTC] PHP Warning:  include(): Failed opening '../lib/connection/db-config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-trandays-transactions.php on line 8
+[20-Sep-2024 06:46:25 UTC] PHP Warning:  include(../lib/class/user-class.php): failed to open stream: No such file or directory in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-trandays-transactions.php on line 9
+[20-Sep-2024 06:46:25 UTC] PHP Warning:  include(): Failed opening '../lib/class/user-class.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-trandays-transactions.php on line 9
+[20-Sep-2024 06:46:25 UTC] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-trandays-transactions.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/n9lbdv3zl2bp/public_html/chinmay.aptsolutions.in/Payroll_Admin/export-trandays-transactions.php on line 10

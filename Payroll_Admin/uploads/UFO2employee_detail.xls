@@ -1,0 +1,35 @@
+ Client_id 	Client_name	Sal_month	 Emp_id	Employee_NAME	present	weeklyoff	  absent	 pl	cl	sl 	 paidholiday	additional	 othours	 nightshifts	incometax	canteen	extra_inc1	 extra_inc2	leave_encash	extra_ded1	extra_ded2	 wagediff	Allow_arrears	 Ot_arrears	invalid	Client_id 	Client_name	Sal_month	 Emp_id	Employee_NAME	Present	Weeklyoff	  Absent	 Pl	Cl	Sl 	 Paidholiday	Additional	 Othours	 Nightshifts	Incometax	Canteen	Extra_inc1	 Extra_inc2	Leave_encash	Extra_ded1	Extra_ded2	 Wagediff	Allow_arrears	 Ot_arrears	Invalid
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3744	ABRAR AYYUB KHAN	23	5		2																		3398	PARALI -VAIJANATH																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3583	ALTAF KARIM MANIYAR	24	5	1																			3237	NARAYANGAON																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4157	BALASAHEB  BANSODE	24	5	1																			3811	KONDI SOLAPUR																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3885	DEEPAK  PAWAR	23	5		2																		3539	BARSHI																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3798	DHIRAJ PRAMOD KASAB	25	5																				3452	BARSHI																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3996	DINESH  RANPISE	25	5																				3650	KHED																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3376	DINESH ACHUTRAO MORE	24	5	1																			3030	OSMANABAD																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3940	DNYANESHWAR  KADAM	25	5																				3594	KHED																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4019	JEEVAN BHIKAJI KADAM	24	5	1																			3673	KHED																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3973	KESHAV  SOLUNKE	22	5	3																			3627	UDGIR																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3749	KULDIP ARVIND JAGDALE	24	5	1																			3403	BARSHI																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3939	LAKHAN  LANDE	25	5																				3593	BARSHI																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4030	MACHINDRA BABASANHEB SANGALE	25	5																				3684	IT SAGAR																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4151	MANGESH  AKUSKAR	24	5		1																		3805	PARALI -VAIJANATH																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4129	MOHAMMAD  PATEL	25	5																				3783	NARAYANGAON																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4153	PRADIP  MUNGE	24	5	1																			3807	UDGIR																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3403	PRASAD GANPAT PANDHARE	24	5	1																			3057	OSMANABAD																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3295	PRASHANT POPAT DHUS	25	5																				2949	NARAYANGAON																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3436	RAMESH SITARAM KAMBLE	25	5																				3090	NARAYANGAON																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4085	RANJIT  PAWAR																						3739	SHRIGONDA																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3942	ROHIT  MANE	25	5																				3596	NARAYANGAON																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4152	ROHIT  SHINDE	23	5	2																			3806	SHRIGONDA																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3872	SAGAR SAVALERAM GUNJAL	25	5																				3526	NARAYANGAON																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4119	SAMIR  GARADE	24	5	1																			3773	SHRIGONDA																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3917	SAWANKUMAR  BHUJANGE	23	5		2																		3571	PARALI -VAIJANATH																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4022	SHIVANAND  DHABBE	24	5	1																			3676	KONDI SOLAPUR																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3946	SOMESHWAR  INGULKAR	21	5		4																		3600	MANJARI																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4047	SOMNATH  SHINDE	22	5	3																			3701	SHRIGONDA																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3976	SUNIL  TELANGE	8	1	21																			3630	UDGIR																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4130	SWAPNIL  KENDE																						3784	NARAYANGAON																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4150	UMESH  LAKADE	25	5																				3804	OSMANABAD																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	4149	VISHAL  LANDE	23	5	1	1																		3803	BARSHI																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3900	VISHAL  RAKSHE	25	5																				3554	NARAYANGAON																								
+24	"BLUE DART EXPRESS LTD., O/S"	31-07-2022	3998	VISHNU  SOLANKE	25	5																				3652	UDGIR																								

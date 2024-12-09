@@ -1,0 +1,6 @@
+Client_id ,Client_name,Sal_month, Emp_id,Employee_NAME,Weeklyoff,  Absent, Pl,Cl,Sl , Paidholiday,Additional, Othours, Nightshifts,Incometax,Canteen,Extra_inc1, Extra_inc2,Leave_encash,Extra_ded1,Extra_ded2, Wagediff,Allow_arrears, Ot_arrears,Invalid,Ticket_no, Dept_Name, Comp_ticket_no
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,1,POOJA ADITYA A,4,5,,,,,,,,,,,,,,,,,,,678904,NOT APPLICABLEE,567898
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,82,ASHARANI PRAKASH22 MADANE33,4,5,,,,,,,,,,,,,,,,,,,,Canteen,
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,155,ABC EFG HIJ,2,7,,,,,,,,,,,,,,,,,,,,TESTING DEPT,
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,156,abcd PPPP QQQ,2,2,,,,,,,,,,,,,,,,,,,,NOT APPLICABLEE,
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,157,sss bbb ccc,1,,3,,,,,,,,,,,,,,,,,,,NOT APPLICABLEE,

@@ -1,0 +1,5 @@
+  Client_id ,Client_name,Sal_month, Emp_id,Employee_NAME,Present,Weeklyoff,  Absent, Pl,Cl,Sl , Paidholiday,Additional, Othours, Nightshifts,Incometax,Canteen,Extra_inc1, Extra_inc2,Leave_encash,Extra_ded1,Extra_ded2, Wagediff,Allow_arrears, Ot_arrears,Invalid,,
+35,BLUE DART EXP.LTD.(UFO FES),31-07-2022,290,SHIVRAJ CHANDRAKANT SWAMI,14,8,2,,,,,,,,,,,,,,,,,,,294,SOLAPUR CITY
+35,BLUE DART EXP.LTD.(UFO FES),31-07-2022,292,OMKAR RAVIKANT GADADE,15,9,2,,,,,,,,,,,,,,,,,,,296,SOLAPUR CITY
+35,BLUE DART EXP.LTD.(UFO FES),31-07-2022,293,MAHIBOOB FAIZHAMAD AIRODGI,16,10,2,,,,,,,,,,,,,,,,,,,297,SWH
+35,BLUE DART EXP.LTD.(UFO FES),31-07-2022,310,VINAYAK DATTATRAY KERE,17,11,2,,,,,,,,,,,,,,,,,,,314,SOLAPUR CITY

@@ -1,0 +1,378 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(admin) - [L]
+
+
+
+RewriteRule ^payroll$ /login.php [L]
+RewriteRule ^payroll-login-process$ /login-process.php [L]
+
+RewriteRule ^change-password-process$ /Payroll_Admin/change-password-process.php [L]
+RewriteRule ^payroll-logout$ /logout.php [L]
+RewriteRule ^user-home$ /Payroll_Admin/index.php [L]
+RewriteRule ^edit-employee$ /Payroll_Admin/edit-employee.php [L]
+RewriteRule ^display-employee1$ /Payroll_Admin/display-employee1.php [L]
+RewriteRule ^display-employee2$ /Payroll_Admin/display-employee2.php [L]
+RewriteRule ^display-employee$ /Payroll_Admin/display-employee.php [L]
+RewriteRule ^display-emp-income-details$ /Payroll_Admin/display-emp-income-details.php [L]
+RewriteRule ^delete-emp-income-process$ /Payroll_Admin/delete-emp-income-process.php [L]
+RewriteRule ^edit-emp-income$ /Payroll_Admin/edit-emp-income.php [L]
+RewriteRule ^edit-emp-deduct$ /Payroll_Admin/edit-emp-deduct.php [L]
+RewriteRule ^delete-emp-deduct-process$ /Payroll_Admin/delete-emp-deduct-process.php [L]
+RewriteRule ^update-employee-process$ /Payroll_Admin/update-employee-process.php [L]
+RewriteRule ^display-emp-income-totalcont$ /Payroll_Admin/display-emp-income-totalcont.php [L]
+RewriteRule ^employee-income-process$ /Payroll_Admin/employee-income-process.php [L]
+RewriteRule ^update-income-process$ /Payroll_Admin/update-income-process.php [L]
+RewriteRule ^employee-deduct-process$ /Payroll_Admin/employee-deduct-process.php [L]
+RewriteRule ^display-emp-deduct-details$ /Payroll_Admin/display-emp-deduct-details.php [L]
+RewriteRule ^update-deduct-process$ /Payroll_Admin/update-deduct-process.php [L]
+RewriteRule ^display-emp-leave-details$ /Payroll_Admin/display-emp-leave-details.php [L]
+RewriteRule ^delete-emp-leave-process$ /Payroll_Admin/delete-emp-leave-process.php [L]
+RewriteRule ^display-emp-advances-details$ /Payroll_Admin/display-emp-advances-details.php [L]
+RewriteRule ^delete-emp-advances-process$ /Payroll_Admin/delete-emp-advances-process.php [L]
+RewriteRule ^update-advances-process$ /Payroll_Admin/update-advances-process.php [L]
+RewriteRule ^employee-advances-process$ /Payroll_Admin/employee-advances-process.php [L]
+RewriteRule ^edit-emp-advances$ /Payroll_Admin/edit-emp-advances.php [L]
+RewriteRule ^add-employee$ /Payroll_Admin/add-employee.php [L]
+RewriteRule ^add-employee-process$ /Payroll_Admin/add-employee-process.php [L]
+
+RewriteRule ^add-employee-new$ /Payroll_Admin/add-employee-new.php [L]
+RewriteRule ^add-employee-new-process$ /Payroll_Admin/add-employee-new-process.php [L]
+
+RewriteRule ^add-mast-client$ /Payroll_Admin/add-mast-client.php [L]
+RewriteRule ^add-mast-client-process$ /Payroll_Admin/add-mast-client-process.php [L]
+RewriteRule ^add-client-group$ /Payroll_Admin/add-client-group.php [L]
+RewriteRule ^add-client-group-process$ /Payroll_Admin/add-client-group-process.php [L]
+RewriteRule ^add-client-group-process11$ /Payroll_Admin/add-client-group-process11.php [L]
+RewriteRule ^edit-group-client$ /Payroll_Admin/edit-group-client.php [L]
+RewriteRule ^edit-group-client-process$ /Payroll_Admin/edit-group-client-process.php [L]
+RewriteRule ^update-group-client-process$ /Payroll_Admin/update-group-client-process.php [L]
+RewriteEngine On
+RewriteRule ^delete-group-client$ /Payroll_Admin/delete-group-client.php [L]
+
+
+
+
+
+
+RewriteRule ^delete-mast-client-process$ /Payroll_Admin/delete-mast-client-process.php [L]
+RewriteRule ^edit-mast-client$ /Payroll_Admin/edit-mast-client.php [L]
+RewriteRule ^edit-mast-client-process$ /Payroll_Admin/edit-mast-client-process.php [L]
+RewriteRule ^add-mast-department$ /Payroll_Admin/add-mast-department.php [L]
+RewriteRule ^add-mast-department-process$ /Payroll_Admin/add-mast-department-process.php [L]
+RewriteRule ^delete-mast-department-process$ /Payroll_Admin/delete-mast-department-process.php [L]
+RewriteRule ^edit-mast-department$ /Payroll_Admin/edit-mast-department.php [L]
+RewriteRule ^update-mast-department-process$ /Payroll_Admin/update-mast-department-process.php [L]
+RewriteRule ^add-mast-bank$ /Payroll_Admin/add-mast-bank.php [L]
+RewriteRule ^add-mast-bank-process$ /Payroll_Admin/add-mast-bank-process.php [L]
+RewriteRule ^edit-mast-bank$ /Payroll_Admin/edit-mast-bank.php [L]
+
+RewriteRule ^add-mast-qualification$ /Payroll_Admin/add-mast-qualification.php [L]
+RewriteRule ^add-mast-qualification-process$ /Payroll_Admin/add-mast-qualification-process.php [L]
+RewriteRule ^edit-mast-qualification$ /Payroll_Admin/edit-mast-qualification.php [L]
+RewriteRule ^update-mast-qualification-process$ /Payroll_Admin/update-mast-qualification-process.php [L]
+RewriteRule ^add-mast-designation$ /Payroll_Admin/add-mast-designation.php [L]
+RewriteRule ^add-mast-designation-process$ /Payroll_Admin/add-mast-designation-process.php [L]
+RewriteRule ^edit-mast-designation$ /Payroll_Admin/edit-mast-designation.php [L]
+RewriteRule ^getdesignation$ /Payroll_Admin/getdesignation.php [L]
+RewriteRule ^add-mast-location$ /Payroll_Admin/add-mast-location.php [L]
+RewriteRule ^add-mast-location-process$ /Payroll_Admin/add-mast-location-process.php [L]
+RewriteRule ^edit-mast-location$ /Payroll_Admin/edit-mast-location.php [L]
+RewriteRule ^report-salary$ /Payroll_Admin/report-salary.php [L]
+RewriteRule ^store_session$ /Payroll_Admin/store_session.php [L]
+RewriteRule ^report-payslip$ /Payroll_Admin/report-payslip.php [L]
+RewriteRule ^report-sal-summary$ /Payroll_Admin/report-sal-summary.php [L]
+RewriteRule ^report-pf$ /Payroll_Admin/report-pf.php [L]
+RewriteRule ^report-pf-statement$ /Payroll_Admin/report-pf-statement.php [L]
+RewriteRule ^report-pf-statement-summary$ /Payroll_Admin/report-pf-statement-summary.php [L]
+RewriteRule ^report-pf_uan_ecr$ /Payroll_Admin/report-pf_uan_ecr.php [L]
+RewriteRule ^report-pf-newlyjoined$ /Payroll_Admin/report-pf-newlyjoined.php [L]
+RewriteRule ^report-pf-left$ /Payroll_Admin/report-pf-left.php [L]
+RewriteRule ^report-pf-form9$ /Payroll_Admin/report-pf-form9.php [L]
+RewriteRule ^report-pf-code-summary$ /Payroll_Admin/report-pf-code-summary.php [L]
+RewriteRule ^import-emp$ /Payroll_Admin/import-emp.php [L]
+RewriteRule ^import-emp-process$ /Payroll_Admin/import-emp-process.php [L]
+RewriteRule ^import-income$ /Payroll_Admin/import-income.php [L]
+RewriteRule ^export-emp-income$ /Payroll_Admin/export-emp-income.php [L]
+RewriteRule ^import-emp-income-process$ /Payroll_Admin/import-emp-income-process.php [L]
+RewriteRule ^import-deduct$ /Payroll_Admin/import-deduct.php [L]
+RewriteRule ^export-emp-deduct$ /Payroll_Admin/export-emp-deduct.php [L]
+RewriteRule ^import-emp-deduct-process$ /Payroll_Admin/import-emp-deduct-process.php [L]
+RewriteRule ^export-emp-data$ /Payroll_Admin/export-emp-data.php [L]
+RewriteRule ^report-esi$ /Payroll_Admin/report-esi.php [L]
+RewriteRule ^report-esi-statement$ /Payroll_Admin/report-esi-statement.php [L]
+RewriteRule ^report-esi-summery-statement$ /Payroll_Admin/report-esi-summery-statement.php [L]
+RewriteRule ^report-without-esi-summery-statement$ /Payroll_Admin/report-without-esi-summery-statement.php [L]
+RewriteRule ^report-contribution-esi-summery-statement$ /Payroll_Admin/report-contribution-esi-summery-statement.php [L]
+RewriteRule ^report-esi-export$ /Payroll_Admin/report-esi-export.php [L]
+RewriteRule ^report-profession-tax$ /Payroll_Admin/report-profession-tax.php [L]
+RewriteRule ^report-pt$ /Payroll_Admin/report-pt.php [L]
+RewriteRule ^report-pt-summary$ /Payroll_Admin/report-pt-summary.php [L]
+RewriteRule ^report-lws$ /Payroll_Admin/report-lws.php [L]
+RewriteRule ^report-lwf-statement$ /Payroll_Admin/report-lwf-statement.php [L]
+RewriteRule ^report-lwf-summary$ /Payroll_Admin/report-lwf-summary.php [L]
+RewriteRule ^report-advances$ /Payroll_Admin/report-advances.php [L]
+RewriteRule ^report-advancelist$ /Payroll_Admin/report-advancelist.php [L]
+RewriteRule ^report-adv_employee$ /Payroll_Admin/report-adv_employee.php [L]
+RewriteRule ^show_adv_dates$ /Payroll_Admin/show_adv_dates.php [L]
+RewriteRule ^display-employee3$ /Payroll_Admin/display-employee3.php [L]
+RewriteRule ^report-society-letter$ /Payroll_Admin/report-society-letter.php [L]
+RewriteRule ^letters$ /Payroll_Admin/letters.php [L]
+RewriteRule ^report-letters$ /Payroll_Admin/report-letters.php [L]
+RewriteRule ^get-employee-byid-experience$ /Payroll_Admin/get-employee-byid-experience.php [L]
+RewriteRule ^display-appoint-employee$ /Payroll_Admin/display-appoint-employee.php [L]
+RewriteRule ^display-other-fields-data$ /Payroll_Admin/display-other-fields-data.php [L]
+RewriteRule ^display-emp-other-data-process$ /Payroll_Admin/display-emp-other-data-process.php [L]
+RewriteRule ^tran_monthly_closing$ /Payroll_Admin/tran_monthly_closing.php [L]
+RewriteRule ^monthly_closing$ /Payroll_Admin/monthly_closing.php [L]
+RewriteRule ^database_backup_view$ /Payroll_Admin/database_backup_view.php [L]
+
+
+RewriteRule ^db_backup_view$ /Payroll_Admin/db_backup_view.php [L]
+RewriteRule ^db-backup$ /Payroll_Admin/db-backup.php [L]
+
+RewriteRule ^update_advances$ /Payroll_Admin/update_advances.php [L]
+RewriteRule ^leave-encashment$ /Payroll_Admin/leave-encashment.php [L]
+RewriteRule ^leave-encashment-details$ /Payroll_Admin/leave-encashment-details.php [L]
+RewriteRule ^get-lattest-opening-date$ /Payroll_Admin/get-lattest-opening-date.php [L]
+RewriteRule ^encashment-process$ /Payroll_Admin/encashment-process.php [L]
+RewriteRule ^leave-reports$ /Payroll_Admin/leave-reports.php [L]
+RewriteRule ^leave-chklistdtl$ /Payroll_Admin/leave-chklistdtl.php [L]
+RewriteRule ^add-leave-cheque-details$ /Payroll_Admin/add-leave-cheque-details.php [L]
+RewriteRule ^check-print-pre$ /Payroll_Admin/check-print-pre.php [L]
+RewriteRule ^report-leave-cheque-list$ /Payroll_Admin/report-leave-cheque-list.php [L]
+RewriteRule ^report-gst-bill$ /Payroll_Admin/report-gst-bill.php [L]
+RewriteRule ^report-gst-statement$ /Payroll_Admin/report-gst-statement.php [L]
+RewriteRule ^add-mast-other-payement$ /Payroll_Admin/add-mast-other-payement.php [L]
+RewriteRule ^add-mast-other-payment-process$ /Payroll_Admin/add-mast-other-payment-process.php [L]
+RewriteRule ^edit-mast-other-payment$ /Payroll_Admin/edit-mast-other-payment.php [L]
+RewriteRule ^other-payment-details$ /Payroll_Admin/other-payment-details.php [L]
+RewriteRule ^other-payment-details-process$ /Payroll_Admin/other-payment-details-process.php [L]
+RewriteRule ^op-details-process$ /Payroll_Admin/op-details-process.php [L]
+RewriteRule ^op-details-update-process$ /Payroll_Admin/op-details-update-process.php [L]
+RewriteRule ^delete-other-payment-details$ /Payroll_Admin/delete-other-payment-details.php [L]
+RewriteRule ^save_newbillno-process$ /Payroll_Admin/save_newbillno-process.php [L]
+RewriteRule ^report-op-gst-bill$ /Payroll_Admin/report-op-gst-bill.php [L]
+RewriteRule ^report-op-gst-statement$ /Payroll_Admin/report-op-gst-statement.php [L]
+RewriteRule ^report-op-list$ /Payroll_Admin/report-op-list.php [L]
+RewriteRule ^leave-detail_reports$ /Payroll_Admin/leave-detail_reports.php [L]
+RewriteRule ^report-leave-register$ /Payroll_Admin/report-leave-register.php [L]
+RewriteRule ^report-leave-voucher$ /Payroll_Admin/report-leave-voucher.php [L]
+RewriteRule ^report-leave-details$ /Payroll_Admin/report-leave-details.php [L]
+RewriteRule ^report-leave-export$ /Payroll_Admin/report-leave-export.php [L]
+RewriteRule ^report-leave-details-export$ /Payroll_Admin/report-leave-details-export.php [L]
+RewriteRule ^report-form20$ /Payroll_Admin/report-form20.php [L]
+
+
+
+RewriteRule ^r-report-payslip-page$ /Payroll_Admin/reports/report-payslip-page.php [L]
+RewriteRule ^r-report-sal-summary-page$ /Payroll_Admin/reports/report-sal-summary-page.php [L]
+RewriteRule ^r-report-pf-statement-page$ /Payroll_Admin/reports/report-pf-statement-page.php [L]
+RewriteRule ^r-report-pf-stat-summary-page$ /Payroll_Admin/reports/report-pf-stat-summary-page.php [L]
+RewriteRule ^report_pf_uan_ecr_page$ /Payroll_Admin/reports/report_pf_uan_ecr_page.php [L]
+RewriteRule ^export-pf-newlyjoined$ /Payroll_Admin/reports/export-pf-newlyjoined.php [L]
+RewriteRule ^export-pf-left$ /Payroll_Admin/reports/export-pf-left.php [L]
+RewriteRule ^r-report-pf-form9-page$ /Payroll_Admin/reports/report-pf-form9-page.php [L]
+RewriteRule ^r-report-pf-code-summary$ /Payroll_Admin/reports/report-pf-code-summary.php [L]
+RewriteRule ^r-report-esi-statement-page$ /Payroll_Admin/reports/report-esi-statement-page.php [L]
+RewriteRule ^r-report-esi-summery-statement-page$ /Payroll_Admin/reports/report-esi-summery-statement-page.php [L]
+RewriteRule ^r-report-without-esi-summery-statement-page$ /Payroll_Admin/reports/report-without-esi-summery-statement-page.php [L]
+RewriteRule ^r-report-contribution-esi-statement-page$ /Payroll_Admin/reports/report-contribution-esi-statement-page.php [L]
+RewriteRule ^export-esi$ /Payroll_Admin/reports/export-esi.php [L]
+RewriteRule ^r-report-pt-page$ /Payroll_Admin/reports/report-pt-page.php [L]
+RewriteRule ^r-report-pt-summary-page$ /Payroll_Admin/reports/report-pt-summary-page.php [L]
+RewriteRule ^r-report-lwf-statement-page$ /Payroll_Admin/reports/report-lwf-statement-page.php [L]
+RewriteRule ^r-report-lwf-summary-page$ /Payroll_Admin/reports/report-lwf-summary-page.php [L]
+RewriteRule ^r-report-advlist-page$ /Payroll_Admin/reports/report-advlist-page.php [L]
+RewriteRule ^r-report-adv-employee-page$ /Payroll_Admin/reports/report-adv-employee-page.php [L]
+RewriteRule ^r-report-society-letter$ /Payroll_Admin/reports/report-society-letter.php [L]
+RewriteRule ^r-report-letters-appoinment-page$ /Payroll_Admin/reports/report-letters-appoinment-page.php [L]
+RewriteRule ^r-report-letters-experience-page$ /Payroll_Admin/reports/report-letters-experience-page.php [L]
+RewriteRule ^r-report-letters-resigation-acceptance-page$ /Payroll_Admin/reports/report-letters-resigation-acceptance-page.php [L]
+RewriteRule ^r-report-letters-blank-appoinment-page$ /Payroll_Admin/reports/report-letters-blank-appoinment-page.php [L]
+RewriteRule ^r-report-letters-blank-page$ /Payroll_Admin/reports/report-letters-blank-page.php [L]
+RewriteRule ^report-leave-cheque-printing$ /Payroll_Admin/reports/report-leave-cheque-printing.php [L]
+RewriteRule ^r-report-gst-statement-page$ /Payroll_Admin/reports/report-gst-statement-page.php [L]
+RewriteRule ^r-report-op-gst-statement-page$ /Payroll_Admin/reports/report-op-gst-statement-page.php [L]
+RewriteRule ^r-report-op-billlist-page$ /Payroll_Admin/reports/report-op-billlist-page.php [L]
+RewriteRule ^r-report-leave-register$ /Payroll_Admin/reports/report-leave-register.php [L]
+RewriteRule ^r-report-leave-voucher$ /Payroll_Admin/reports/report-leave-voucher.php [L]
+RewriteRule ^r-report-leave-details$ /Payroll_Admin/reports/report-leave-details.php [L]
+
+
+
+
+
+
+
+
+
+
+##Added By Aparna
+RewriteRule ^import-transactions$ /Payroll_Admin/import-transactions.php [L]
+RewriteRule ^tran-day$ /Payroll_Admin/tran-day.php [L]
+RewriteRule ^tran-day-process$ /Payroll_Admin/tran-day-process.php [L]
+RewriteRule ^display-tran-days$ /Payroll_Admin/display-tran-days.php [L]
+RewriteRule ^display-monthval$ /Payroll_Admin/display-monthval.php [L]
+RewriteRule ^sessionclientno$ /Payroll_Admin/sessionclientno.php [L]
+RewriteRule ^export-emp-transactions$ /Payroll_Admin/export-emp-transactions.php [L]
+RewriteRule ^import-transactions-process$ /Payroll_Admin/import-transactions-process.php [L]
+RewriteRule ^tran-calculation$ /Payroll_Admin/tran-calculation.php [L]
+RewriteRule ^sal-calc$ /Payroll_Admin/sal-calc.php [L]
+RewriteRule ^report-wpaysheet$ /Payroll_Admin/report-wpaysheet.php [L]
+RewriteRule ^r-wage-sheet$ /Payroll_Admin/reports/wage-sheet.php [L]
+RewriteRule ^edit-all-employee$ /Payroll_Admin/edit-all-employee.php [L]
+RewriteRule ^display-all-employee$ /Payroll_Admin/display-all-employee.php [L]
+RewriteRule ^display-emp-deduct-data$ /Payroll_Admin/display-emp-deduct-data.php [L]
+RewriteRule ^display-emp-income-data$ /Payroll_Admin/display-emp-income-data.php [L]
+RewriteRule ^display-emp-data$ /Payroll_Admin/display-emp-data.php [L]
+RewriteRule ^display-emp-advance-data$ /Payroll_Admin/display-emp-advance-data.php [L]
+RewriteRule ^update-all-emp-deduct-process$ /Payroll_Admin/update-all-emp-deduct-process.php [L]
+RewriteRule ^display-emp-advance-data-process$ /Payroll_Admin/display-emp-advance-data-process.php [L]
+RewriteRule ^update-all-emp-process$ /Payroll_Admin/update-all-emp-process.php [L]
+RewriteRule ^update-all-emp-income-process$ /Payroll_Admin/update-all-emp-income-process.php [L]
+RewriteRule ^update-all-emp-deduct-process$ /Payroll_Admin/update-all-emp-deduct-process.php [L]
+RewriteRule ^bank-excel$ /Payroll_Admin/bank-excel.php [L]
+RewriteRule ^bank-excel-export$ /Payroll_Admin/bank-excel-export.php [L]
+
+##added by Asharani
+RewriteRule ^create-payroll-employee$ /Payroll_Admin/create-payroll-employee.php [L]
+RewriteRule ^create-employee-process$ /Payroll_Admin/create-employee-process.php [L]
+RewriteRule ^create-new-employee-login$ /Payroll_Admin/create-new-employee-login.php [L]
+RewriteRule ^employee-password-update$ /Payroll_Admin/employee-password-update.php [L]
+RewriteRule ^check-employee-username$ /Payroll_Admin/check-employee-username.php [L]
+RewriteRule ^check-username-password$ /Payroll_Admin/check-username-password.php [L]
+RewriteRule ^view-change-password$ /Payroll_Admin/view-change-password.php [L]
+RewriteRule ^update-password-for-all$ /Payroll_Admin/update-password-for-all.php [L]
+
+
+
+
+
+RewriteRule ^datewise-details$ /Payroll_Admin/datewise-details.php [L]
+RewriteRule ^display-datewise-details$ /Payroll_Admin/display-datewise-details.php [L]
+RewriteRule ^datewise_document_details_process$ /Payroll_Admin/datewise_document_details_process.php [L]
+
+
+
+RewriteRule ^select_current_bonus_year$ /Payroll_Admin/select_current_bonus_year.php [L]
+
+
+RewriteRule ^store_session_bonus$ /Payroll_Admin/store_session_bonus.php [L]
+RewriteRule ^bonus-chklistdtl$ /Payroll_Admin/bonus-chklistdtl.php [L]
+RewriteRule ^statement-bonus-calculation$ /Payroll_Admin/statement-bonus-calculation.php [L]
+RewriteRule ^report-format1-bonus$ /Payroll_Admin/report-format1-bonus.php [L]
+RewriteRule ^report-cheque-list-bonus$ /Payroll_Admin/report-cheque-list-bonus.php [L]
+RewriteRule ^updatebonuslock$ /Payroll_Admin/updatebonuslock.php [L]
+RewriteRule ^bank-statement-bonus$ /Payroll_Admin/bank-statement-bonus.php [L]
+RewriteRule ^update-session-for-bonus$ /Payroll_Admin/update-session-for-bonus.php [L]
+RewriteRule ^bonus-lock$ /Payroll_Admin/bonus-lock.php [L]
+RewriteRule ^report-neft-letter-bonus$ /Payroll_Admin/report-neft-letter-bonus.php [L]
+RewriteRule ^report-neft-bonus$ /Payroll_Admin/report-neft-bonus.php [L]
+RewriteRule ^bonus_chklistdtl$ /Payroll_Admin/bonus_chklistdtl.php [L]
+RewriteRule ^bonus$ /Payroll_Admin/bonus.php [L]
+RewriteRule ^statememt-bonus-calculation$ /Payroll_Admin/statememt-bonus-calculation.php [L]
+RewriteRule ^export-bonus-calculation$ /Payroll_Admin/export-bonus-calculation.php [L]
+RewriteRule ^bonus-statement$ /Payroll_Admin/bonus-statement.php [L]
+RewriteRule ^bonus-reports$ /Payroll_Admin/bonus-reports.php [L]
+
+
+
+RewriteRule ^r-report-bonus-statement$ /Payroll_Admin/reports/report-bonus-statement.php [L]
+
+
+RewriteRule ^check-username-unique$ /Payroll_Admin/check-username-unique.php [L]
+
+RewriteRule ^add-mast-category$ /Payroll_Admin/add-mast-category.php [L]
+RewriteRule ^add-mast-category-process$ /Payroll_Admin/add-mast-category-process.php [L]
+RewriteRule ^edit-mast-category$ /Payroll_Admin/edit-mast-category.php [L]
+
+RewriteRule ^generate$ /Payroll_Admin/generate.php [L]
+
+
+RewriteRule ^employee$ /Payroll_Employee/login.php [L]
+RewriteRule ^employee-home$ /Payroll_Employee/employee-home.php [L]
+
+RewriteRule ^emp-login-process$ /Payroll_Employee/login-process.php [L]
+RewriteRule ^emp-payroll-logout$ /Payroll_Employee/logout.php [L]
+
+RewriteRule ^payment-slip$ /Payroll_Employee/payment-slip.php [L]
+RewriteRule ^emp-view-change-password$ /Payroll_Employee/emp-view-change-password.php [L]
+RewriteRule ^check-username-password$ /Payroll_Employee/check-username-password.php [L]
+RewriteRule ^attendance$ /Payroll_Employee/attendance.php [L]
+RewriteRule ^emp-attendance$ /Payroll_Admin/reports/emp-attendance.php [L]
+
+
+RewriteRule ^employee-attendance$ /Payroll_Admin/employee-attendance.php [L]
+RewriteRule ^changepassword$ /Payroll_Employee/changepassword.php [L]
+
+RewriteRule ^export-emp-page$ /Payroll_Admin/export-emp-page.php [L]
+RewriteRule ^export_emp$ /Payroll_Admin/export-emp.php [L]
+RewriteRule ^export-emp-income-page$ /Payroll_Admin/export-emp-income-page.php [L]
+RewriteRule ^export-emp-deduct-page$ /Payroll_Admin/export-emp-deduct-page.php [L]
+RewriteRule ^export_income$ /Payroll_Admin/export-income.php [L]
+RewriteRule ^export_deduct /Payroll_Admin/export-deduct.php [L]
+RewriteRule ^export_emp_income_page$ /Payroll_Admin/export-emp-income-page.php [L]
+RewriteRule ^export_emp_deduct_page$ /Payroll_Admin/export-emp-deduct-page.php [L]
+RewriteRule ^export-leave$ /Payroll_Admin/export-leave.php [L]
+RewriteRule ^export-advance$ /Payroll_Admin/export-advance.php [L]
+RewriteRule ^export-active-employee /Payroll_Admin/export-active-employee.php [L]
+RewriteRule ^export_active_emp$ /Payroll_Admin/export-active-emp.php [L]
+RewriteRule ^export-trandays-transactions$ /Payroll_Admin/export-trandays-transactions.php [L]
+RewriteRule ^get-clientlist-of-group$ /Payroll_Admin/get-clientlist-of-group.php [L]
+
+
+
+RewriteRule ^edit-check-username-unique$ /Payroll_Admin/edit-check-username-unique.php [L]
+
+RewriteRule ^show-salmonth$ /Payroll_Admin/show-salmonth.php [L]
+
+RewriteRule ^show-salmonth-process$ /Payroll_Admin/show-salmonth-process.php [L]
+RewriteRule ^edit-sal-month$ /Payroll_Admin/edit-sal-month.php [L]
+RewriteRule ^update-sal-month-process$ /Payroll_Admin/update-sal-month-process.php [L]
+
+
+
+RewriteRule ^check-payslip-visibility$ /Payroll_Employee/check-payslip-visibility.php [L]
+RewriteRule ^emp-attendance-page$ /Payroll_Admin/emp-attendance-page.php [L]
+
+#added by shraddha on 24-10-2024
+RewriteRule ^report-email-payslip$ /Payroll_Admin/report-email-payslip.php [L]
+RewriteRule ^report-export-payslip$ /Payroll_Admin/report-export-payslip.php [L]
+
+RewriteRule ^r-report-payslip-send-email$ /Payroll_Admin/reports/report-payslip-send-email.php [L]
+RewriteRule ^export-payslip1$ /Payroll_Admin/export-payslip1.php [L]
+
+#added by shraddha on 26-10-2024
+RewriteRule ^r-report-form20-page$ /Payroll_Admin/reports/report-form20-page.php [L]
+RewriteRule ^report-leave-statement$ /Payroll_Admin/report-leave-statement.php [L]
+RewriteRule ^r-report-leave-statement$ /Payroll_Admin/reports/report-leave-statement.php [L]
+
+
+# added by sakshi on 26-10-24
+RewriteRule ^calculation-bonus$ /Payroll_Admin/calculation-bonus.php [L]
+
+#added by Shraddha on 28-10-2024
+RewriteRule ^bonus-bank-excel-export$ /Payroll_Admin/bonus-bank-excel-report.php [L]
+RewriteRule ^bonus-bank-excel$ /Payroll_Admin/bank-excel-bonus.php [L]
+
+#added by sakshi on 8-11-2024
+RewriteRule ^advance$ /Payroll_Employee/advance.php [L]
+RewriteRule ^emp-show_adv_dates$ /Payroll_Employee/emp-show_adv_dates.php [L]
+RewriteRule ^display-employee-edit$ /Payroll_Admin/display-employee-edit.php [L]
+# added on 15-11-224 by sakshi
+RewriteRule ^idCard$ /Payroll_Admin/idCard.php [L]
+RewriteRule ^display-employee-card$ /Payroll_Admin/display-employee-card.php [L]
+
+#added by shraddha on 15-11-2024
+RewriteRule ^copytonew-employee$ /Payroll_Admin/copytonew-employee.php [L]
+RewriteRule ^emp_profile_upload$ /Payroll_Admin/emp_profile_upload.php [L]
+RewriteRule ^delete-profile-photo$ /Payroll_Admin/delete-profile-photo.php [L]
+RewriteRule ^display-employee-idCard$ /Payroll_Admin/display-employee-idCard.php [L]
+
+
+
+
+
+
+ErrorDocument 404 /notfound.html

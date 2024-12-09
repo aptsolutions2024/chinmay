@@ -1,0 +1,12 @@
+ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SELECT mc.mast_client_id , mc.client_name,date_format(mc.current_month,'%Y-%c-%d') as 'Sal_month', emp.`emp_id` as 'Emp_ID',concat(emp.first_name,' ',emp.middle_name,' ',emp.last_name) AS 'Employee_NAME' , '' as  present, '' as weeklyoff, '' as   absent, '' as  pl, '' as cl, '' as sl , '' as  paidholiday, '' as additional, '' as  othours, '' as  nightshifts, '' as incometax, '' as canteen, '' as extra_inc1, '' as  extra_inc2, '' as leave_encash, '' as extra_ded1, '' as extra_ded2, '' as  wagediff, '' as Allow_arrears, '' as  Ot_arrears, '' as invalid,emp.ticket_no,md.mast_dept_name as 'Dept_Name',emp.comp_ticket_no FROM `employee` emp inner join mast_client mc  on emp.client_id = mc.mast_client_id  inner join mast_dept md on emp.dept_id= md.mast_Dept_id where emp.client_id = '2' and emp.job_status != 'L'  order by emp.emp_idClient_id ",Client_name,Sal_month, Emp_id,Employee_NAME, Present,Weeklyoff,  Absent, Pl,Cl,Sl , Paidholiday,Additional, Othours, Nightshifts,Incometax,Canteen,Extra_inc1, Extra_inc2,Leave_encash,Extra_ded1,Extra_ded2, Wagediff,Allow_arrears, Ot_arrears,Invalid,Ticket_no, Dept_Name, Comp_ticket_no
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,1,POOJA ADITYA A,20,3,4,6,,,,,,,,,,,,,,,,,,678904,NOT APPLICABLEE,567898
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,82,ASHARANI PRAKASH22 MADANE33,23,4,,8,,,,,,,,,,,,,,,,,,,Canteen,
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,155,ABC EFG HIJ,26,4,2,9,,,,,,,,,,,,,,,,,,,TESTING DEPT,
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,156,abcd PPPP QQQ,13,2,1,2,,,,,,,,,,,,,,,,,,,NOT APPLICABLEE,
+2,"CHINMAY HOSPITALITY SERVICES,SHIRVAL",30-04-2024,157,sss bbb ccc,19,4,,,,,,,,,,,,,,,,,,,,,NOT APPLICABLEE,

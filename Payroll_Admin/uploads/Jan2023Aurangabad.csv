@@ -1,0 +1,7 @@
+ Client_id ,Client_name,Sal_month, Emp_id,Employee_NAME,present,weeklyoff,  absent, pl,cl,sl , paidholiday,additional, othours, nightshifts,incometax,canteen,extra_inc1, extra_inc2,leave_encash,extra_ded1,extra_ded2, wagediff,Allow_arrears, Ot_arrears,invalid,Client_id ,Client_name,Sal_month, Emp_id,Employee_NAME,Present,Weeklyoff,  Absent, Pl,Cl,Sl , Paidholiday,Additional, Othours, Nightshifts,Incometax,Canteen,Extra_inc1, Extra_inc2,Leave_encash,Extra_ded1,Extra_ded2, Wagediff,Allow_arrears, Ot_arrears,Invalid
+25,"BLUE DART EXPRESS LTD., (AUR DIV)",31-01-2023,3294,AKSHAY MACHINDRA GHORPADE,22,5,,2,,,,1,,,,,,,,,,,,,,2948,SHEVGAON,,,,,,,,,,,,,,,,,,,,,,,,
+25,"BLUE DART EXPRESS LTD., (AUR DIV)",31-01-2023,3405,ROHIT SUNIL KHARADE,19,5,,5,,,,1,,,,,,,,,,,,,,3059,SHEVGAON,,,,,,,,,,,,,,,,,,,,,,,,
+25,"BLUE DART EXPRESS LTD., (AUR DIV)",31-01-2023,3992,SURAJ K DESHMUKH,23,5,,1,,,,1,,,,,,,,,,,,,,3646,SVG AURANGABAD,,,,,,,,,,,,,,,,,,,,,,,,
+25,"BLUE DART EXPRESS LTD., (AUR DIV)",31-01-2023,4099,YOGESH CHANDRAKANT  SHELAR,,,,,,,,,,,,,,,,,,,,,,3753,SVG AURANGABAD,,,,,,,,,,,,,,,,,,,,,,,,
+25,"BLUE DART EXPRESS LTD., (AUR DIV)",31-01-2023,4356,KALYAN  GAHININATH  MIRAD,23,5,,1,,,,1,,,,,,,,,,,,,,,SVG AURANGABAD,,,,,,,,,,,,,,,,,,,,,,,,
+25,"BLUE DART EXPRESS LTD., (AUR DIV)",31-01-2023,4357,CHANDU BEBI ADHARE,24,5,,,,,,1,,,,,,,,,,,,,,,SVG AURANGABAD,,,,,,,,,,,,,,,,,,,,,,,,
